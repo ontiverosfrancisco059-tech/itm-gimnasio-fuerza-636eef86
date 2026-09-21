@@ -1,0 +1,136 @@
+{
+  "media_requests": [
+    {
+      "slot_id": "hero-gym-main",
+      "page": "home",
+      "section": "hero",
+      "category": "place",
+      "label": "Gimnasio Fuerza - Hero",
+      "theme": "gym interior moderno con equipamiento, iluminación profesional",
+      "query": "modern gym interior with equipment bright lighting",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "about-gym-entrance",
+      "page": "home",
+      "section": "about",
+      "category": "place",
+      "label": "Entrada del Gimnasio",
+      "theme": "fachada o entrada de gimnasio, acogedora y profesional",
+      "query": "gym entrance facade welcoming professional",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-weightroom",
+      "page": "home",
+      "section": "gallery",
+      "category": "place",
+      "label": "Sala de Pesas",
+      "theme": "sala de pesas con barbillas, mancuernas y bancos",
+      "query": "weight room dumbbells barbells benches gym",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-cardio",
+      "page": "home",
+      "section": "gallery",
+      "category": "place",
+      "label": "Zona de Cardio",
+      "theme": "fila de cintas de correr y bicicletas estáticas",
+      "query": "gym cardio area treadmills stationary bikes",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "gallery-lockers",
+      "page": "home",
+      "section": "gallery",
+      "category": "place",
+      "label": "Vestidores",
+      "theme": "vestidores limpios y modernos con casilleros",
+      "query": "modern clean gym locker room lockers",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "team-trainer-1",
+      "page": "home",
+      "section": "team",
+      "category": "place",
+      "label": "Entrenador Principal",
+      "theme": "entrenador personal fit sonriente en gimnasio",
+      "query": "personal trainer fit smiling gym portrait",
+      "priority": "high",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "classes-stretching",
+      "page": "home",
+      "section": "classes",
+      "category": "place",
+      "label": "Clase de Estiramiento",
+      "theme": "grupo haciendo stretching o yoga en gimnasio",
+      "query": "group stretching yoga class gym studio",
+      "priority": "medium",
+      "source": "search",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "cta-join",
+      "page": "home",
+      "section": "cta",
+      "category": "custom",
+      "label": "Únete - CTA Visual",
+      "theme": "fondo abstracto deportivo, energía y motivación",
+      "query": "",
+      "priority": "medium",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "cta-contact",
+      "page": "home",
+      "section": "cta",
+      "category": "custom",
+      "label": "Contacto - CTA Visual",
+      "theme": "fondo limpio y profesional para formulario de contacto",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "testimonials-bg",
+      "page": "home",
+      "section": "testimonials",
+      "category": "custom",
+      "label": "Testimonios - Fondo",
+      "theme": "textura sutil oscura para sección de testimonios",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    },
+    {
+      "slot_id": "footer-gym-logo",
+      "page": "home",
+      "section": "footer",
+      "category": "custom",
+      "label": "Logo Gimnasio Fuerza",
+      "theme": "logo minimalista de gimnasio con tipografía fuerte",
+      "query": "",
+      "priority": "low",
+      "source": "generic",
+      "fallback": "GR-AI"
+    }
+  ]
+}
